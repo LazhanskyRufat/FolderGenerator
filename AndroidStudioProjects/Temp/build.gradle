@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "com.rufat.lazhansky.soundlevelchecker"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile files('libs/Variations/mono/Development/Classes/classes.jar')
+    compile files('libs/Variations/mono/Release/Classes/classes.jar')
+    compile files('libs/Variations/il2cpp/Development/Classes/classes.jar')
+    compile files('libs/Variations/il2cpp/Release/Classes/classes.jar')
+}
