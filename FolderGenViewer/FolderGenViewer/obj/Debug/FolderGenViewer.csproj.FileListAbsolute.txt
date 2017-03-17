@@ -1,0 +1,16 @@
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\bin\Debug\FolderGenViewer.exe.config
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\bin\Debug\FolderGenViewer.exe
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\bin\Debug\FolderGenViewer.pdb
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\MainWindow.g.cs
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\App.g.cs
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer_MarkupCompile.cache
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer_MarkupCompile.lref
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\MainWindow.baml
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer.g.resources
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer.Properties.Resources.resources
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer.csproj.GenerateResource.Cache
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer.exe
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer.pdb
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\ResourceDictionary.baml
+C:\Users\lazhenskiy.r\documents\visual studio 2015\Projects\FolderGenViewer\FolderGenViewer\obj\Debug\FolderGenViewer.csprojResolveAssemblyReference.cache

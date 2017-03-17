@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--To create simple file, use node "file" with attribute "name" (format: name.extention)-->
+<!--To create file with some content, simply type it inside node body!-->
+<!--To create reference, use node "reference" with attribute "name" and "path" (format: path="./aaa/bbb/ccc")-->
+<!--References are used to copy all files from "path" folder to a new folder with "name"-->
+<!--To create folder, use node "folder" with attribute "name"-->
+<!--Do not forget that nested nodes in "reference" and "file" will be ignored. Only nested folders are supported-->
+<!--Create prefered hierarchy of folders in project using nested nodes-->
+<!--Dummy files with ".dummy" extention will be created in empty folders. To prevent Git ignoring such folders. You can delete them later, if necessary-->
+
+<!--Unity project folder name.-->
+<!--"token" is a sequence of symbols that will be replaced by project number in every sub-file or folder. (Example: ### -> 001, ## -> 01, etc.)-->
+<!--"outputDir" is a parent directory where project should be created-->
+<folder name="MyBear" token="##" outputDir="./">
+  <!--Just some info file.-->
+  <file name="Info.txt">This project was generated automatically by XMLBasedFolderGen.py</file>
+  <folder name="mybear_unity">
+    <folder name="Assets">
+      <folder name ="Config">
+        <folder name="Localization"></folder>
+      </folder>
+      <folder name="Editor"></folder>
+      <folder name="Externals"></folder>
+      <folder name="FX"></folder>
+      <folder name="Icons"></folder>
+      <folder name="LOGOS"></folder>
+      <folder name="Characters"></folder>
+      <folder name="Locations"></folder>
+      <folder name="Prefabs"></folder>
+      <folder name="Props"></folder>
+      <folder name="Resources">
+        <folder name="Config"></folder>
+        <folder name="Prefabs"></folder>
+        <folder name="Sounds"></folder>
+      </folder>
+      <folder name="Scenes">
+        <file name="_Start.unity"></file>
+      </folder>
+      <folder name="Scripts"></folder>
+      <folder name="Shaders"></folder>
+      <folder name="Textures"></folder>
+      <folder name="UIAssets">
+        <folder name="Fonts"></folder>
+        <folder name="Prefabs"></folder>
+        <folder name="Textures">
+          <folder name="BACKS"></folder>
+          <folder name="BannerUIAtlas"></folder>
+          <folder name="BaseUIAtlas"></folder>
+          <folder name="LocalizedUIAtlas"></folder>
+        </folder>
+      </folder>
+    </folder>
+    <folder name="ProjectSettings"></folder>
+    <folder name="Library"></folder>
+  </folder>
+</folder>

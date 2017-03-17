@@ -1,0 +1,44 @@
+﻿<Window x:Class="FolderGenViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FolderGenViewer"
+        Title="MainWindow" Height="600" Width="400">
+    <Window.DataContext>
+        <local:ViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <local:BitmapSourceConverter x:Key="bitmapSourceConverter" />
+        <HierarchicalDataTemplate x:Key="treeViewItemTemplate">
+            <StackPanel Orientation="Horizontal">
+                <Image Width="30" Height="18" Name="image"></Image>
+                <TextBlock Name="textBlock" Text="{Binding XPath=@name}">
+                    <TextBlock.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Add Child File" Click="AddChildFileClick"></MenuItem>
+                            <MenuItem Header="Add Child Folder" Click="AddChildFolderClick"></MenuItem>
+                            <MenuItem Header="Add Child Reference" Click="AddChildReferenceClick"></MenuItem>
+                            <MenuItem Header="Remove" Click="RemoveClick"></MenuItem>
+                        </ContextMenu>
+                    </TextBlock.ContextMenu>
+                </TextBlock>
+            </StackPanel>
+            <HierarchicalDataTemplate.ItemsSource>
+                <Binding XPath="child::*" />
+            </HierarchicalDataTemplate.ItemsSource>
+            <HierarchicalDataTemplate.Triggers>
+                <DataTrigger Binding="{Binding Path=Name}" Value="folder">
+                    <Setter TargetName="image" Property="Source" Value="{Binding Path=Name, Converter={StaticResource bitmapSourceConverter}}"></Setter>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding Path=Name}" Value="file">
+                    <Setter TargetName="image" Property="Source" Value="{Binding XPath=@name, Converter={StaticResource bitmapSourceConverter}}"></Setter>
+                </DataTrigger>
+            </HierarchicalDataTemplate.Triggers>
+        </HierarchicalDataTemplate>
+    </Window.Resources>
+    <Grid DataContext="{Binding Path=XmlData}" Margin="40,40,40,40">
+        <TreeView ItemsSource="{Binding}" ItemTemplate="{StaticResource treeViewItemTemplate}">
+        </TreeView>
+    </Grid>
+</Window>
