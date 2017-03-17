@@ -1,0 +1,4 @@
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\Editor_Dll\bin\Debug\VolumeLevelChecker.dll
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\Editor_Dll\bin\Debug\VolumeLevelChecker.pdb
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\Editor_Dll\obj\Debug\VolumeLevelChecker.dll
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\Editor_Dll\obj\Debug\VolumeLevelChecker.pdb

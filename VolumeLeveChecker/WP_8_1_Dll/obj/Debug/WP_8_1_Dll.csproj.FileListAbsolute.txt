@@ -1,0 +1,16 @@
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\priconfig.xml
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\priconfig.xml.intermediate
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\layout.resfiles
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\layout.resfiles.intermediate
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\resources.resfiles
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\resources.resfiles.intermediate
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\pri.resfiles
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\pri.resfiles.intermediate
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\qualifiers.txt
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\qualifiers.txt.intermediate
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\bin\Debug\VolumeLevelChecker.dll
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\bin\Debug\VolumeLevelChecker.pdb
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\bin\Debug\VolumeLevelChecker.pri
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\VolumeLevelChecker.dll
+c:\users\lazhenskiy.r\documents\visual studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\Debug\VolumeLevelChecker.pdb

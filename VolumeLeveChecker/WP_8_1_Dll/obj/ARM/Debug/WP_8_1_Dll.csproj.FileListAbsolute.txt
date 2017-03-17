@@ -1,0 +1,16 @@
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\bin\ARM\Debug\VolumeLevelChecker.dll
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\bin\ARM\Debug\VolumeLevelChecker.pdb
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\bin\ARM\Debug\VolumeLevelChecker.pri
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\VolumeLevelChecker.dll
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\VolumeLevelChecker.pdb
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\priconfig.xml
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\layout.resfiles
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\resources.resfiles
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\pri.resfiles
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\qualifiers.txt
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\lazhenskiy.r\Documents\Visual Studio 2015\Projects\VolumeLeveChecker\WP_8_1_Dll\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
