@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://python.folder.gen.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://python.folder.gen.org/XMLSchema.xsd"
+    xmlns:mstns="http://python.folder.gen.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:complexType name ="Folder">
+      <xs:sequence minOccurs="0">
+        <xs:element name ="folder" type ="Folder"></xs:element>
+        <xs:element name ="file" type="xs:string"></xs:element>
+        <xs:element name="reference" type="xs:string"></xs:element>
+      </xs:sequence>
+  </xs:complexType>
+</xs:schema>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--To create simple file, use node "file" with attribute "name" (format: name.extention)-->
+<!--To create file with some content, simply type it inside node body!-->
+<!--To create reference, use node "reference" with attribute "name" and "path" (format: path="./aaa/bbb/ccc")-->
+<!--References are used to copy all files from "path" folder to a new folder with "name"-->
+<!--To create folder, use node "folder" with attribute "name"-->
+<!--Do not forget that nested nodes in "reference" and "file" will be ignored. Only nested folders are supported-->
+<!--Create prefered hierarchy of folders in project using nested nodes-->
+<!--Dummy files with ".dummy" extention will be created in empty folders. To prevent Git ignoring such folders. You can delete them later, if necessary-->
+
+<!--Unity project folder name.-->
+<!--"token" is a sequence of symbols that will be replaced by project number in every sub-file or folder. (Example: ### -> 001, ## -> 01, etc.)-->
+<!--"outputDir" is a parent directory where project should be created-->
+<folder name="unity_##_project" token="##" outputDir="../">
+  <!--Just some info file.-->
+  <file name="Info.txt">This project was generated automatically by XMLBasedFolderGen.py</file>
+  <folder name="Assets">
+    <folder name="Animations">
+      <folder name="Episode##"></folder>
+    </folder>
+    <folder name="AssetBundles">
+      <folder name="Audio"></folder>
+      <folder name="Config">
+        <file name="episode_config_##.csv">Слайд №,Стикер,Свет</file>
+        <file name="minigame_available_##.csv">Slide,Type</file>
+        <file name="subtitles_##_ru.csv">Main;Minigame;Hint</file>
+      </folder>
+      <folder name="SHD">
+        <folder name="Movies">
+          <folder name="Episode##"></folder>
+        </folder>
+      </folder>
+      <folder name="SlidePreview"></folder>
+    </folder>
+    <reference name="Materials" path="./episode_01_unity/Assets/Materials"></reference>
+  </folder>
+</folder>
