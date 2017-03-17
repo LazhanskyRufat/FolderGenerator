@@ -1,0 +1,12 @@
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.0\\CustomUsingsOrganizer.dll
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.0\\CustomUsingsOrganizer.pdb
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.0\\CustomUsingsOrganizer.pkgdef
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.0\\extension.vsixmanifest
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.1\\CustomUsingsOrganizer.dll
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.1\\CustomUsingsOrganizer.pdb
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.1\\CustomUsingsOrganizer.pkgdef
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.1\\extension.vsixmanifest
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.2\\CustomUsingsOrganizer.dll
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.2\\CustomUsingsOrganizer.pdb
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.2\\CustomUsingsOrganizer.pkgdef
+C:\Users\lazhenskiy.r\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rufat Lazhansky\CustomUsingsOrganizer\1.2\\extension.vsixmanifest
